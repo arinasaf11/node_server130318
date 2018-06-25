@@ -10,4 +10,12 @@
 Нажимаем enter и :
 ### 5.Результат
 ![alt](https://pp.userapi.com/c845417/v845417550/872d0/UP2oj3kYSD8.jpg)
-где __X-Test : POSTa04ae827765b7ff47e2fb80e28f8ec10__
+где __X-Test : POSTa04ae827765b7ff47e2fb80e28f8ec10__  
+
+# II. Создание простого веб-сервера на основе Node.js
+### 1. Инициализируем проект в командной строке
+![alt](https://pp.userapi.com/c845417/v845417550/87561/4hESW4ymRv0.jpg)
+### 2. Устанавливаем инструмент nodemon для автоматизации перезапуска сценария и moment для работы с датой и временем  
+`npm i -D nodemon    
+npm i moment`  
+
