@@ -30,3 +30,5 @@
 ![alt](https://pp.userapi.com/c845417/v845417963/87172/S5UlKcClhOE.jpg)
 ### 7. Проверяем
 ![alt](https://pp.userapi.com/c845417/v845417963/87180/BFvDPxzvj6w.jpg)
+### 8.  Рефакторинг кода : чтобы коллбэк, отвечающий на запросы, явным образом указывался для события request
+![alt](https://pp.userapi.com/c845417/v845417963/871b5/SpAro7eejoU.jpg)
