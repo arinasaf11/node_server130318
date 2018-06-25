@@ -16,6 +16,11 @@
 ### 1. Инициализируем проект в командной строке
 ![alt](https://pp.userapi.com/c845417/v845417550/87561/4hESW4ymRv0.jpg)
 ### 2. Устанавливаем инструмент nodemon для автоматизации перезапуска сценария и moment для работы с датой и временем  
-`npm i -D nodemon    
+`npm i -D nodemon  
 npm i moment`  
-
+### 3. Вносим изменения в package.json файл, чтобы nodemon стартовал вместе с приложением - добавляем 
+`"scripts": {
+    "start": "nodemon"
+  },`  
+  
+![alt](https://pp.userapi.com/c845324/v845324413/8bd17/-UMvl2JvpuU.jpg)
