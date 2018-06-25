@@ -1,3 +1,3 @@
 # I. Моделирование взаимодействия «клиент-сервер» с помощью программы telnet и
 программы curl
-![https://pp.userapi.com/c845417/v845417550/872d0/UP2oj3kYSD8.jpg]
+![alt](https://pp.userapi.com/c845417/v845417550/872d0/UP2oj3kYSD8.jpg)
