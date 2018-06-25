@@ -20,3 +20,9 @@
 npm i moment`  
 ### 3. Вносим изменения в package.json файл, чтобы nodemon стартовал вместе с приложением - добавляем `"scripts": {"start": "nodemon"},`  
 ![alt](https://pp.userapi.com/c845324/v845324413/8bd17/-UMvl2JvpuU.jpg)
+### 4.Создаём файл index.js рядом с package.json, в котором будет код сервера
+![alt](https://pp.userapi.com/c845324/v845324586/89d85/lPDRzY5xVJQ.jpg)
+### 5.Запускаем index.js и проверяем его результат через curl : `curl localhost:4321` 
+![alt](https://pp.userapi.com/c845417/v845417963/87179/1v4iUnM-KJQ.jpg)
+### и в браузере 
+![alt](https://pp.userapi.com/c845417/v845417963/87180/BFvDPxzvj6w.jpg)
